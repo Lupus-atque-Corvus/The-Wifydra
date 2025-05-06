@@ -1,4 +1,4 @@
-# **The-Wifydra**  
+# **The Wifydra**  
 📡 Multi-headed 802.11 Panopticon  
 
 The Wifydra is a wardriving tool for simultaneously monitoring all 2.4 GHz Wi-Fi channels, capturing network beacons, and geotagging locations. Data is stored on an SD card for easy upload to Wigle.net.
@@ -35,12 +35,12 @@ The Wifydra is a wardriving tool for simultaneously monitoring all 2.4 GHz Wi-Fi
 
 ## **Bill of Materials (BOM)**  
 
-| Component                     | Quantity | Manufacturer Part          | Manufacturer       |  
-|-------------------------------|----------|----------------------------|--------------------|  
-| Adafruit_GPS                  | 1        | Ultimate GPS Breakout v3    | Adafruit          |  
-| MicroSD Card Breakout          | 1        | 254                        | Adafruit          |  
-| ESP32-S3 Feather TFT          | 1        | 5483                       | Adafruit          |  
-| Seeedstudio XIAO (ESP32-C3/S3)| 14/16       | 113991054                   | Seeedstudio       |  
+| Component                     | Quantity | Manufacturer Part          | Manufacturer       | Link                                                                                   |  
+|-------------------------------|----------|----------------------------|--------------------|---------------------------------------------------------------------------------------|  
+| Adafruit_GPS                  | 1        | Ultimate GPS Breakout v3    | Adafruit          | [Adafruit Product Page](https://www.adafruit.com/product/746)                        |  
+| MicroSD Card Breakout          | 1        | 254                        | Adafruit          | [Adafruit Product Page](https://www.adafruit.com/product/254)                        |  
+| ESP32-S3 Feather TFT          | 1        | 5483                       | Adafruit          | [Adafruit Product Page](https://www.adafruit.com/product/5483)                        |  
+| Seeedstudio XIAO (ESP32-C3/S3)| 16       | 113991054                   | Seeedstudio       | [Seeedstudio Product Page](https://www.seeedstudio.com/product/113991054.html)       |  
 
 ---
 
@@ -64,3 +64,13 @@ The Wifydra is a wardriving tool for simultaneously monitoring all 2.4 GHz Wi-Fi
 
 - **Recommended**: 5V input via USB-C or external power source.  
 - **Optional**: 18650 battery pack with 5V output for portability.  
+
+---
+
+## **Troubleshooting**  
+
+- **GPS Not Locking**: Ensure the GPS module has a clear view of the sky and is properly connected.  
+- **Wi-Fi Channels Not Scanning**: Verify that all sub nodes have unique `BOARD_ID` values and are properly flashed.  
+- **SD Card Errors**: Ensure the SD card is properly formatted and securely connected.  
+
+---
