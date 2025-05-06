@@ -40,7 +40,7 @@ The Wifydra is a wardriving tool for simultaneously monitoring all 2.4 GHz Wi-Fi
 | Adafruit_GPS                  | 1        | Ultimate GPS Breakout v3    | Adafruit          |  
 | MicroSD Card Breakout          | 1        | 254                        | Adafruit          |  
 | ESP32-S3 Feather TFT          | 1        | 5483                       | Adafruit          |  
-| Seeedstudio XIAO (ESP32-C3/S3)| 16       | 113991054                   | Seeedstudio       |  
+| Seeedstudio XIAO (ESP32-C3/S3)| 14/16       | 113991054                   | Seeedstudio       |  
 
 ---
 
