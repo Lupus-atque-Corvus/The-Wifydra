@@ -1,4 +1,4 @@
-# **The_Wifydra**  
+# **The-Wifydra**  
 📡 Multi-headed 802.11 Panopticon  
 
 The Wifydra is a wardriving tool for simultaneously monitoring all 2.4 GHz Wi-Fi channels, capturing network beacons, and geotagging locations. Data is stored on an SD card for easy upload to Wigle.net.
