@@ -5,11 +5,10 @@
 [ ] Improve PCB                    
 
 Note:
-
-I have changed and adapted Dom.ino so that there should no longer be any problems with wigle.net. I have also made general errors or corrections, but as I have not yet built my own copy, I cannot test it for functionality.
-I don't think the Sub.ino needs to be reworked because it works. :)
-I try to design the redme in such a way that everything is traceable and as easy to rebuild as possible.
-I will look into the PCB data and make improvements, as I have seen that there were problems with the connection of the leads to some points.
+- I have changed and adapted Dom.ino so that there should no longer be any problems with wigle.net. I have also made general errors or corrections, but as I have not yet built my own copy, I cannot test it for functionality.
+- I don't think the Sub.ino needs to be reworked because it works. :)
+- I try to design the redme in such a way that everything is traceable and as easy to rebuild as possible.
+- I will look into the PCB data and make improvements, as I have seen that there were problems with the connection of the leads to some points.
 
 
 ---
