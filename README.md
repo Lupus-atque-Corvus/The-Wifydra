@@ -1,3 +1,11 @@
+To-Do
+[] Easier Build Instructions
+[] Display Customisations
+[] Further Code Improvements
+[] Improve PCB
+
+
+
 # **The Wifydra**  
 📡 Multi-headed 802.11 Panopticon  
 
