@@ -1,11 +1,17 @@
 ## **To-Do**
-[ ] Easier Build Instructions
+|-----------------------------------|
+|[ ] Easier Build Instructions      |
+|-----------------------------------|
+|[ ] Display Customisations         |
+|-----------------------------------|
+|[ ] Further Code Improvements      |
+|-----------------------------------|
+|[ ] Improve PCB                    |
+|-----------------------------------|
 
-[ ] Display Customisations
+Note:
+I have changed and adapted Dom.ino so that there should no longer be any problems with wigle.net. I have also made general errors or corrections, but as I have not yet built my own copy, I cannot test it for functionality.
 
-[ ] Further Code Improvements
-
-[ ] Improve PCB
 
 ---
 
