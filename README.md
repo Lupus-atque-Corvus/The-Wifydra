@@ -1,5 +1,5 @@
 ## **To-Do**
-
+|-----------------------------------|
 |[ ] Easier Build Instructions      |
 |[ ] Display Customisations         |
 |[ ] Further Code Improvements      |
