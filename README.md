@@ -1,10 +1,8 @@
 ## **To-Do**
 
-|[ ] Display Customisations         |
-|                                   |
-|[ ] Further Code Improvements      |
-|                                   |
-|[ ] Improve PCB                    |
+[ ] Display Customisations         
+[ ] Further Code Improvements                         
+[ ] Improve PCB                    
 
 Note:
 I have changed and adapted Dom.ino so that there should no longer be any problems with wigle.net. I have also made general errors or corrections, but as I have not yet built my own copy, I cannot test it for functionality.
