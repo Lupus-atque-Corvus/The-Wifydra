@@ -1,11 +1,11 @@
 ## **To-Do**
-[] Easier Build Instructions
+[ ] Easier Build Instructions
 
-[] Display Customisations
+[ ] Display Customisations
 
-[] Further Code Improvements
+[ ] Further Code Improvements
 
-[] Improve PCB
+[ ] Improve PCB
 
 ---
 
